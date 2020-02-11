@@ -49,6 +49,7 @@ Only x86_64-linux is currently supported.
 | Name | Description |
 |------|-------------|
 | NIX\_PATH | n/a |
+| out\_path | n/a |
 | self\_link | n/a |
 
 <!-- terraform-docs-end -->
